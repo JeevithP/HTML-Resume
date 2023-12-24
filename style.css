@@ -1,0 +1,38 @@
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    color: royalblue;
+}
+.photo{
+    float: left;
+    margin: 15px 10px;
+    height: 180px;
+}
+img{
+    border-radius: 50%;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+}
+.Summary{
+    display: inline-block;
+    background-color: aquamarine;
+}
+.Education{
+    display: inline-block;
+    background-color: azure;
+}
+.work{
+    background-color: cadetblue;
+    color: floralwhite;
+}
+footer{
+    background-color: darkcyan;
+}
